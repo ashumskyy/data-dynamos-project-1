@@ -1,4 +1,4 @@
-,Country Name,Country Code,Region,Happiness Score,Life Expectancy,Suicide Rate,Unemployment Rate,Net National Income per capita,GDP per capita,Consumer Price Inflation
+,Country Name,Country Code,Region,Happiness Score,Life Expectancy,Suicide Rate,Unemployment Rate,Net National Income Total,GDP Total,Consumer Price Inflation
 0,Albania,ALB,Europe,5.199,79.0034,4.6,14.00000019,10948438941.0,13365200472.0,2277370027.0
 1,Algeria,DZA,Africa,5.122,75.9274,2.56,10.53519993,134994000000.0,168558000000.0,33195800004.0
 2,Armenia,ARM,Europe,5.399,74.9018,4.06,18.17000008,10392423379.0,11740832933.0,2110667535.0
