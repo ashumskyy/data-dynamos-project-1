@@ -43,11 +43,12 @@ https://www.geoapify.com
 –	Happiness Score and Consumer Inflation (R2 = -0.43)
 –	Suicide Rate and Unemployment Rate (R2 = 0.34) 
 
- 
+<img width="913" alt="Screen Shot 2023-02-02 at 4 45 36 PM" src="https://user-images.githubusercontent.com/44728723/216465798-03c7f2b4-665c-4384-b3ea-6f3f67e10ced.png">
 
 •	There doesn’t appear to be a linear relationship between Suicide Rate and Happiness Score
 
- 
+<img width="561" alt="Screen Shot 2023-02-02 at 4 54 31 PM" src="https://user-images.githubusercontent.com/44728723/216465837-5e4c8cde-69ae-476c-a980-8a6dd7ce69d0.png">
+
 
 •	With more time, we would suggest:
 –	Exploring more data sets from the World Bank to find other influencing variables
